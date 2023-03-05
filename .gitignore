@@ -1,0 +1,4 @@
+.idea
+node_modules
+GraphQL.iml
+package-lock.json
